@@ -1,4 +1,4 @@
-# Breast-Cancer-Detection-using-Supervised-and-Unsupervised-methods
+# Breast Cancer Detection using Supervised and Unsupervised methods
 This is an attempt to create a breast cancer prediction model using various machine learning approaches. The goal is to classify these samples as either benign or malignant, aiding in the diagnosis of breast cancer.
 #### Dataset: 
 Downloaded the Breast Cancer Wisconsin (Diagnostic) Data Set from the UCI Machine Learning Repository, containing IDs, classes, and attributes.
